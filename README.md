@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yash-tx
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning python,java,C
 - 📫 you can reach me through discord
 
 <!---
